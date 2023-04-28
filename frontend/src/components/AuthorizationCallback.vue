@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "AuthorizationCallback",
+  name: "AuthorizationCallback small change",
   computed: {
     code() {
       const params = new URLSearchParams(window.location.search)
